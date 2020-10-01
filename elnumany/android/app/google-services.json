@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "480508489725",
+    "firebase_url": "https://elnu-many-573e8.firebaseio.com",
+    "project_id": "elnu-many-573e8",
+    "storage_bucket": "elnu-many-573e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480508489725:android:3a63e5d5f0e1302262f394",
+        "android_client_info": {
+          "package_name": "com.example.elnumany"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480508489725-icvlkn44kk1lhl0oeoqmc3g2ct6q9d7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAucTf_DX_N-6fo1QJpIMrmqceKeAc0M_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480508489725-icvlkn44kk1lhl0oeoqmc3g2ct6q9d7s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
